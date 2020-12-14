@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="UTF-8" />
+  <title>Particleground demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="maintenance-assets/css/style.css" />
+  <link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
+  <script type='text/javascript' src='maintenance-assets/js/jquery.particleground.min.js'></script>
+  <script type='text/javascript' src='maintenance-assets/js/demo.js'></script>
+</head>
+
+<body>
+
+<div id="particles">
+  <div id="intro">
+    <center><img src="https://www.liquesip.com/assets/images/logo.png" width="270" alt="" class="img-fluid" data-pagespeed-url-hash="3487449445"></center>
+    <p>Down for maintenance</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
