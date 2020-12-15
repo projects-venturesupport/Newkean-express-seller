@@ -17,12 +17,12 @@ if($_SERVER['HTTP_HOST'] == "localhost")
 elseif($_SERVER['HTTP_HOST'] == 'projects.venturesupport.in')
 {
 	// development
-	define('ADMIN_URL', 'https://projects.venturesupport.in/goezzy/admin/');
+	define('ADMIN_URL', 'https://projects.venturesupport.in/newkeanexpress/admin/');
 	define('SITE_TITLE', 'Go Ezzy');
-	define('ASSETS_URL', 'https://projects.venturesupport.in/goezzy/seller/assets/');
-	define('FILE_UPLOAD_BASE_PATH', '/home/thesinolretreat/projects.venturesupport.in/goezzy/web/');
-	define('FRONT_URL', 'https://projects.venturesupport.in/goezzy/web/');
-	$config['base_url'] = 'https://projects.venturesupport.in/goezzy/seller/';
+	define('ASSETS_URL', 'https://projects.venturesupport.in/newkeanexpress/seller/assets/');
+	define('FILE_UPLOAD_BASE_PATH', '/home/thesinolretreat/projects.venturesupport.in/newkeanexpress/app');
+	define('FRONT_URL', 'https://projects.venturesupport.in/newkeanexpress/app/');
+	$config['base_url'] = 'https://projects.venturesupport.in/newkeanexpress/seller/';
 	define('FROM_EMAIL', 'dev@techprostudio.com');
 }
 else

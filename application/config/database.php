@@ -103,9 +103,9 @@ else if($_SERVER['HTTP_HOST'] == "projects.venturesupport.in")
     $db['default'] = array(
         'dsn'   => '',
         'hostname' => 'localhost',
-        'username' => 'thesinol_V_goezzy',
-        'password' => 'S*^$}wo8gg*r',
-        'database' => 'thesinol_V_goezzy',
+        'username' => 'thesinol_V_newkean',
+        'password' => 'FcU%_.1lAWj)',
+        'database' => 'thesinol_V_newkean',
         'dbdriver' => 'mysqli',
         'dbprefix' => '',
         'pconnect' => FALSE,
