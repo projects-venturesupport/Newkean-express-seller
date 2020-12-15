@@ -18,7 +18,7 @@ elseif($_SERVER['HTTP_HOST'] == 'projects.venturesupport.in')
 {
 	// development
 	define('ADMIN_URL', 'https://projects.venturesupport.in/newkeanexpress/admin/');
-	define('SITE_TITLE', 'Go Ezzy');
+	define('SITE_TITLE', 'Newkean Express');
 	define('ASSETS_URL', 'https://projects.venturesupport.in/newkeanexpress/seller/assets/');
 	define('FILE_UPLOAD_BASE_PATH', '/home/thesinolretreat/projects.venturesupport.in/newkeanexpress/app');
 	define('FRONT_URL', 'https://projects.venturesupport.in/newkeanexpress/app/');
